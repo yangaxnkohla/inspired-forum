@@ -1,0 +1,79 @@
+.Register {
+    text-align: center;
+    background-image: url('../../images/smartfast-stolen.jpg');
+    height: 100%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.card {
+    padding-bottom: 20px;
+}
+
+.card-img-top {
+    content: url('../../images/logo-500px.png');
+}
+
+input[type=name] {  
+    width: 100%;  
+    padding: 21px 40px;  
+    margin: 8px 0;  
+    display: inline-block;  
+    border: 1px solid #ccc;  
+    box-sizing: border-box;  
+} 
+
+.username { 
+    position: relative; 
+} 
+  
+.username i{ 
+    position: absolute; 
+    left: 15px; 
+    top: 20px; 
+    color: gray; 
+} 
+
+input[type=email] {  
+    width: 100%;  
+    padding: 21px 40px;  
+    margin: 8px 0;  
+    display: inline-block;  
+    border: 1px solid #ccc;  
+    box-sizing: border-box;  
+} 
+
+.email { 
+    position: relative; 
+} 
+  
+.email i{ 
+    position: absolute; 
+    left: 15px; 
+    top: 20px; 
+    color: gray; 
+} 
+
+input[type=password] {  
+    width: 100%;  
+    padding: 21px 40px;  
+    margin: 8px 0;  
+    display: inline-block;  
+    border: 1px solid #ccc;  
+    box-sizing: border-box;  
+} 
+
+.password { 
+    position: relative; 
+} 
+  
+.password i{ 
+    position: absolute; 
+    left: 15px; 
+    top: 20px; 
+    color: gray; 
+}
+

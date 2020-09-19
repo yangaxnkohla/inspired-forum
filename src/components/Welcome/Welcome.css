@@ -1,0 +1,18 @@
+.Welcome {
+    text-align: center;
+    background-image: url('../../images/smartfast-stolen.jpg');
+    height: 100%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.card {
+    padding: 10px;
+}
+
+.card-img-top {
+    content: url('../../images/logo-500px.png');
+}

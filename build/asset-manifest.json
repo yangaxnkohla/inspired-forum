@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.55206011.chunk.css",
+    "main.js": "/static/js/main.5cc5941b.chunk.js",
+    "main.js.map": "/static/js/main.5cc5941b.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.5193e2e3.js",
+    "runtime-main.js.map": "/static/js/runtime-main.5193e2e3.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.f2cd33dd.chunk.js": "/static/js/2.f2cd33dd.chunk.js",
+    "static/js/2.f2cd33dd.chunk.js.map": "/static/js/2.f2cd33dd.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.23e0d2d2cc7c4f0aa2225db816198b46.js": "/precache-manifest.23e0d2d2cc7c4f0aa2225db816198b46.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.55206011.chunk.css.map": "/static/css/main.55206011.chunk.css.map",
+    "static/js/2.f2cd33dd.chunk.js.LICENSE.txt": "/static/js/2.f2cd33dd.chunk.js.LICENSE.txt",
+    "static/media/Login.css": "/static/media/balloons.0fd46b42.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5193e2e3.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.f2cd33dd.chunk.js",
+    "static/css/main.55206011.chunk.css",
+    "static/js/main.5cc5941b.chunk.js"
+  ]
+}
